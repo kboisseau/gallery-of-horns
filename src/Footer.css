@@ -1,0 +1,9 @@
+footer {
+  background-color: rgb(7, 104, 107);
+  height: 100px;
+}
+
+footer p {
+  padding-top: 60px;
+  padding-left: 20px;
+}
