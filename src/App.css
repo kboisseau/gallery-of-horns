@@ -32,7 +32,24 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.modal-body img {
+  width: 100%;
+}
+
+.modal-footer {
+  justify-content: center;
+}
+
+form {
+  background-color: rgb(7, 104, 107);
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
